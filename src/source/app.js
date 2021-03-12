@@ -40,7 +40,7 @@ class App{
         
         this.initScene();
         this.setupXR();
-        
+        //HI
         this.renderer.setAnimationLoop( this.render.bind(this) );
 		
 		window.addEventListener('resize', this.resize.bind(this));
