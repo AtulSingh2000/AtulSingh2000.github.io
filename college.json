@@ -1,5 +1,5 @@
 {
-    "Atrium_Table_1":{ "name":"Atrium", "info":"Students can meet in small groups in the Atrium for informal sessions."},
-    "LobbyShop":{ "name":"Lobby Shop", "info":"Students can get lots of items from the Lobby Shop."},
-    "Kitchen_Worktop_Hobs__1_":{ "name":"Kitchen", "info":"The kitchen has a level 5 hygiene rating."}
+    "Atrium_Table_1":{ "name":"Great hall waiting area", "info":"Waiting area with a perfect aura of the great hall to give you some room."},
+    "LobbyShop":{ "name":"Atul's Salon", "info":"Get curated products from Atul's special selections."},
+    "Kitchen_Worktop_Hobs__1_":{ "name":"Kitchen", "info":"Everything delicious gets prepared here by Atul."}
 }
